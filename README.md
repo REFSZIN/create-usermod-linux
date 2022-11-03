@@ -1,5 +1,5 @@
 <h1 align="center">
-  Shortly
+   usermod-linux
 </h1>
 <div align="center">
 
@@ -17,20 +17,10 @@
 <br/>
 
 # Description
-
-Shortly is a back-end application, an REST API FULL.
-
-</br>
-
-## Features
-
--   User sign-up and sign-in
--   Create cart.
--   Order Checkout by Cart User id.
--   View products.
+Infraestrutura como código: Script de criação de estrutura de usuários, diretórios e permissões
+.
 
 </br>
-
 <!-- 
 // build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
 // ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
